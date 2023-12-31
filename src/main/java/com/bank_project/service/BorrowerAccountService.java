@@ -15,4 +15,7 @@ public interface BorrowerAccountService {
 
     // bug 102
 //    public String deleteAccount(Integer customerId);
+
+    // bug 103 fixed
+//    public BorrowerAccountDTO updateBorrowerAcc(BorrowerAccount borrowerAccount, Integer customerId);
 }
