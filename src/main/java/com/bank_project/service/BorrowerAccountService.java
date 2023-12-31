@@ -13,4 +13,6 @@ public interface BorrowerAccountService {
     public BorrowerAccountDTO getBorrowerAccountByAccountNumber(Long accountNumber);
 
 
+    // bug 102
+//    public String deleteAccount(Integer customerId);
 }
